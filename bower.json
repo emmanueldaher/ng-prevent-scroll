@@ -1,0 +1,23 @@
+{
+  "name": "ng-prevent-scroll",
+  "homepage": "https://github.com/emmanueldaher/ng-prevent-scroll",
+  "authors": [
+    "Emmanuel L. Daher <esmurruga@gmail.com>"
+  ],
+  "description": "Tiny pure angularjs directive to prevent the annoying browser's default scroll behavior in container elements.",
+  "main": "ng-prevent-scroll.js",
+  "keywords": [
+    "angularjs",
+    "angular",
+    "directive",
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
